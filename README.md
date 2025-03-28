@@ -4,3 +4,4 @@ The algorithm for nucleus pulposus herniation code added in "the project code" f
 The practical app of the project can be found in the 'Spinal Disc Herniation project' module (requires MATLAB 2022 or later).
 The two PDF files contain the comprehensive project documentation in both English and Arabic.
 the "cases" file contine the cases to try on the app
+I also attached a video showing the results of the project 
